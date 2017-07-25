@@ -2,7 +2,7 @@
 
 ##### 9th Project for [Android Basics Nanodegree by Google](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803)
 
-#### App description:
+### App description:
 1. Project has contains no UI.
 2. There exists a contract class that defines name of table and constants.
 Inside the contract class, there is an inner class for each table created.
