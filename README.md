@@ -1,13 +1,9 @@
 # Habit Tracker [HabitTracker]
 
-##### 9th Project for [Android Basics Nanodegree by Google](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803)
+##### 6th Project for [Android Basics Nanodegree by Google](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803)
 
 ### App description:
-1. Project has contains no UI.
-2. There exists a contract class that defines name of table and constants.
-Inside the contract class, there is an inner class for each table created.
-3. There is a single insert method that adds values of two different datatypes (INTEGER, STRING)
-into the database using a ContentValues object and the insert() method.
-4. There is a single read method that returns a Cursor object. It should get the data repository in read and use the query()
-method to retrieve at least one column of data.
-5. All data insertion and reading are done using direct method calls to the SQLite database in the SQLiteOpenHelper class.
+1. App contains 4 categories which provide information about tourist attractions, restaurants, hotels and necessary phrases.
+2. User can navigate between lists using a central a NavDrawer.
+3. App provides information about transport, adresses phone numbers of a hotel or restaurant.
+4. Hotels and Restaurants items are devided into expensive and budget categories.
